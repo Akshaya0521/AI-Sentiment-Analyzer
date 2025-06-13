@@ -12,3 +12,7 @@ Python 3.x,Streamlit (for the web interface),TextBlob (for sentiment analysis),N
 **Development Tools**
 **Text Editor/IDE****:**VS Code, PyCharm, or any Python-supporting editor.
 **Command Line/Terminal:** To run Streamlit app using streamlit run app.py.
+
+** Run the Web App**
+**In your terminal, run:**
+streamlit run sentiment_app.py
